@@ -97,5 +97,3 @@ https://www.google.com/amp/s/www.sueddeutsche.de/muenchen/dachau/martin-niemoell
 
 https://www.google.com/amp/s/www.domradio.de/themen/%25C3%25B6kumene/2017-01-14/vor-125-jahren-wurde-martin-niemoeller-geboren%3famp
 
-
-### Diese Version der Datei funktioniert evntl. nicht ganz
